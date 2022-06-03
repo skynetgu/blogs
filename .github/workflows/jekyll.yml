@@ -26,4 +26,4 @@ jobs:
        SOURCE: _site/
        REMOTE_HOST: skynet.red
        REMOTE_USER: skynet
-       TARGET: /home/skynet/
+       TARGET: /home/skynet/blogs
